@@ -1,0 +1,76 @@
+.Imagen_ppal{
+    width: 884px;
+    height: 374px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+h1{
+   
+    width: 884px;
+    height: 280px;
+    text-align: left;
+    font: normal normal 900 89px/79px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+    margin-top: 5px;
+}
+
+.nombre_autor{
+    text-align: right;
+    font: normal normal bold 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;  
+    width: 884px;
+    height: 28px;
+}
+.acceso{
+    text-align: left;
+    font: normal normal 900 21px/25px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+}
+.linea1{
+    width: 883px;
+    height: 0px;
+    border: 5px solid #999999;
+    opacity: 1; 
+}
+
+.Sub_titulos{
+    width: 335px;
+    height: 42px;
+    text-align: left;
+    font: normal normal 900 34px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+
+li {
+    width: 883px;
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1; 
+    text-align: justify;
+}
+a {
+    text-decoration: none;
+}
+
+iframe{
+    border: 1px solid #707070;
+    opacity: 1;
+}
+.inicio{
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal 900 21px/25px Montserrat;
+    letter-spacing: 0px;
+    color: #0037B3;
+    text-transform: uppercase;
+    opacity: 1;
+}
